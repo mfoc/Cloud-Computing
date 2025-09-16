@@ -8,7 +8,7 @@ https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU856-In
 
 https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU857-Introduction.pdf
 
-## Lab Activity
+## Lab Activity (TU856 & TU857)
 
 https://mfoc.github.io/Cloud-Computing/week01/
 
