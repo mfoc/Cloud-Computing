@@ -1,10 +1,28 @@
-## Week 01 Lecture 01
+# Week 01
+
+## TU856 Lecture 01
+
+https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU856-Introduction.pdf
+
+## TU857 Lecture 01
 
 https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU857-Introduction.pdf
 
-## Week 01 Lab Activity
+## Lab Activity
 
 https://mfoc.github.io/Cloud-Computing/week01/
+
+##
+
+# Optional Reading Materials
+
+[Linux Tutorial for Beginners](https://ryanstutorials.net/linuxtutorial/)
+
+[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+
+https://mfoc.github.io/Cloud-Computing/week01/Linux-Tutorial-Processes.pdf
+
+# Registration
 
 ## Steps for Students to Change Class Reference Number (CRN) or Modules
 
