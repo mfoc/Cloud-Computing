@@ -8,6 +8,10 @@ https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU856-In
 
 https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU857-Introduction.pdf
 
+## TU856 & TU857 Lecture 02
+
+https://mfoc.github.io/Cloud-Computing/week01/Lecture02a-History-of-Distributed-Computing.pdf
+
 ## Lab Activity (TU856 & TU857)
 
 Due to current issues with student registration and the inability of many students to access the module on Brightspace, students will complete this week’s lab independently, at a time and location of their choosing, using the self-guided tutorial available here:
