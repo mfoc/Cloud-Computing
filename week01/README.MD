@@ -14,7 +14,7 @@ Due to current issues with student registration and the inability of many studen
 
 https://mfoc.github.io/Cloud-Computing/week01/
 
-The lab activity must be completed before next week's lab session.  The optional reading available below provides helpful refresher resources to assist in the completion of this week's lab session, for those who may need it.
+The lab is not graded. There is no upload or submission required. The lab activity must be completed before next week's lab session.  The optional reading available below provides helpful refresher resources to assist in the completion of this week's lab session, for those who may need it.
 
 ##
 
