@@ -10,7 +10,11 @@ https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU857-In
 
 ## Lab Activity (TU856 & TU857)
 
+Due to current issues with student registration and the inability of many students to access the module on Brightspace, students will complete this week’s lab independently, at a time and location of their choosing, using the self-guided tutorial available here:
+
 https://mfoc.github.io/Cloud-Computing/week01/
+
+The lab activity must be completed before next week's lab session.  The optional reading available below provides helpful refresher resources to assist in the completion of this week's lab session, for those who may need it.
 
 ##
 
