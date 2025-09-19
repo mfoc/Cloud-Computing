@@ -2,7 +2,7 @@
 
 ## TU856 Lecture 01
 
-https://mfoc.github.io/Cloud-Computing/week01/Lecture01-Cloud-Computing-TU856-Introduction.pdf
+https://mfoc.github.io/Cloud-Computing/week01/01-Lecture01-Cloud-Computing-TU856-Introduction.pdf
 
 ## TU857 Lecture 01
 
