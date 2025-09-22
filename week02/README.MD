@@ -1,6 +1,6 @@
 # Week 02
 
-**Please note: the materials below will only become active at the beginning of the scheduled lecture(s) and lab session.**
+**Please note: the materials below will only become active at the beginning of the scheduled lecture(s) and lab session.** 
 
 ## TU856 
 
